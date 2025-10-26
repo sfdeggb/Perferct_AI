@@ -1,13 +1,13 @@
 # AI 工具箱
 
-1.超越GPT4-0的AI辅助代码编写</br>
+#### 1.超越GPT4-0的AI辅助代码编写</br>
 介绍：<br>
 地址：https://www.blackbox.ai/chat/WzCrMdZ</br>
 使用案例：<br>
 
-2.思维导图分析问题解答：flowwith
+#### 2.思维导图分析问题解答：flowwith
 
-3.原型设计最终助手：https://mockups-design.com/
+#### 3.原型设计最终助手：https://mockups-design.com/
 
 4.Google gemini 1.5 对标GPT4O:https://aistudio.google.com/app/prompts/1Pan_SpS-0tri8YCl16_EDIex3o_C2MMy
 
@@ -27,10 +27,24 @@
 
 12.最新AI模型第一时间使用：https://lmarena.ai/
 
-13.Lovar:t首个专业AI设计Agent，从创意到交付全链路设计:https://www.lovart.ai/?utm_source=ai-bot.c 使用案例：https://mp.weixin.qq.com/s/zjgBFWUZs-XZelMKqPm5bw
+13.Lovart
+介绍：首个专业AI设计Agent，从创意到交付全链路设计</br>
+地址：https://www.lovart.ai/?utm_source=ai-bot.c </br>
+使用案例：https://mp.weixin.qq.com/s/zjgBFWUZs-XZelMKqPm5bw</br>
 
-14.MCP工具网站：https://smithery.ai/   https://github.com/punkpeye/awesome-mcp-servers?tab=readme-ov-file#browser-automation
+14.Google AI studio
+介绍：google 旗下AI模型使用平台
+地址：https://aistudio.google.com/
+使用案例：可以用来创建不受各类限制的DAN助手（DO ALL THINGS NO LMIT），会带来不同的体验。
+15.MCP工具网站
+介绍：
+地址
+https://smithery.ai/  
+https://github.com/punkpeye/awesome-mcp-servers?tab=readme-ov-file#browser-automation
+使用案例：
 
-15.AIPPT：https://mp.weixin.qq.com/s/FqmGZo_PaVvT7he7B6EXrg
-
+16.AIPPT
+介绍：
+地址：https://mp.weixin.qq.com/s/FqmGZo_PaVvT7he7B6EXrg
+使用案例：
 
